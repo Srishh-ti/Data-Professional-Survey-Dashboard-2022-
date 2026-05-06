@@ -129,7 +129,7 @@ data-professional-survey-dashboard/
 
 ## 📸 Dashboard Preview
 
-https://github.com/Srishh-ti/Data-Professional-Survey-Dashboard-2022-/dashboard_preview.png
+https://github.com/Srishh-ti/Data-Professional-Survey-Dashboard-2022-/blob/main/dashboard_preview.png
 
 ---
 
